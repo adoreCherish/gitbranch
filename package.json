@@ -1,0 +1,31 @@
+{
+  "name": "gitbranch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "co": "^4.6.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-load-plugins": "^1.5.0",
+    "koa": "^2.3.0",
+    "koa-simple-router": "^0.2.0",
+    "koa-static": "^3.0.0",
+    "koa-swig": "^2.2.1",
+    "path": "^0.12.7",
+    "render": "^0.1.4",
+    "shell": "^0.3.2",
+    "shelljs": "^0.7.8"
+  },
+  "devDependencies": {
+    "babel-core": "^6.25.0",
+    "babel-polyfill": "^6.23.0",
+    "babel-preset-latest": "^6.24.1",
+    "babel-preset-stage-3": "^6.24.1"
+  }
+}

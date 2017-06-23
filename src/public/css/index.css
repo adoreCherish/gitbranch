@@ -1,0 +1,22 @@
+h3{
+    text-align: center;
+}
+.container{
+    background: pink;
+    opacity: .5;
+}
+.main{
+    height:700px;
+}
+.main .form-group{
+    text-align: center;
+}
+.main #branchName{
+    width:50% !important;
+}
+.main form{
+    margin-top:30px;
+}
+.main .submit{
+    margin-top:30px;
+}
